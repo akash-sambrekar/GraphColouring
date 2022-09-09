@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colouring", "Knapsack\Colouring.csproj", "{755B54B6-18BE-4A47-A722-2DC4917A5EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755B54B6-18BE-4A47-A722-2DC4917A5EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755B54B6-18BE-4A47-A722-2DC4917A5EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755B54B6-18BE-4A47-A722-2DC4917A5EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755B54B6-18BE-4A47-A722-2DC4917A5EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35B15C0E-25D8-4848-AA77-4A714CBEAD20}
+	EndGlobalSection
+EndGlobal
