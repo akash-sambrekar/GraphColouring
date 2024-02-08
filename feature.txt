@@ -1,4 +1,5 @@
-Line Added by Akash
-Akash-sam made some changes in the code as well . Check it again
+Feature 1  is added
+Feature 2  is added
+Feature 3  is added
 Feature 4 is added
 Feature 5 is added
