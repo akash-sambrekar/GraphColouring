@@ -3,3 +3,5 @@ Feature 2  is added
 Feature 3a  is modified
 Feature 4a is mod
 Feature 5a is mod
+Feature 6 is added
+Feature 7 is added
